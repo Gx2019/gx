@@ -1,0 +1,1 @@
+const homeTpl = require('../views/home.html')
